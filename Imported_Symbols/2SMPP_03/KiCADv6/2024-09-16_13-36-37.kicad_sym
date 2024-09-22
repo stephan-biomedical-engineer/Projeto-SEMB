@@ -81,54 +81,6 @@
 			)
 		)
 		(symbol "2SMPP-03_0_1"
-			(polyline
-				(pts
-					(xy -15.24 -7.62) (xy 15.24 -7.62)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy -15.24 7.62) (xy -15.24 -7.62)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 15.24 -7.62) (xy 15.24 7.62)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 15.24 7.62) (xy -15.24 7.62)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(pin output line
 				(at -22.86 2.54 0)
 				(length 7.62)
@@ -183,7 +135,38 @@
 					)
 				)
 			)
-			(pin unspecified line
+		)
+		(symbol "2SMPP-03_1_1"
+			(rectangle
+				(start -15.24 7.62)
+				(end 15.24 -7.62)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin power_in line
+				(at -22.86 -2.54 0)
+				(length 7.62)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
 				(at 22.86 0 180)
 				(length 7.62)
 				(name "N-SUB"
@@ -201,7 +184,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin input line
 				(at 22.86 2.54 180)
 				(length 7.62)
 				(name "ICC"
@@ -212,26 +195,6 @@
 					)
 				)
 				(number "6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(symbol "2SMPP-03_1_1"
-			(pin unspecified line
-				(at -22.86 -2.54 0)
-				(length 7.62)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
 					(effects
 						(font
 							(size 1.27 1.27)
