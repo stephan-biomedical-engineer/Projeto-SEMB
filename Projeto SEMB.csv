@@ -31,7 +31,7 @@
 "R19","3.3k","~","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","1",""
 "RV1","R_Potentiometer_Trim","~","Potentiometer_SMD:Potentiometer_Bourns_3269W_Vertical","1",""
 "SW1","Reset","~","Button_Switch_SMD:SW_SPST_B3U-1000P-B","1",""
-"SW2","BOOT_0","~","Button_Switch_SMD:SW_SPST_B3U-1000P-B","1",""
+"SW2","BOOT_0","~","Button_Switch_SMD:SW@_SPST_B3U-1000P-B","1",""
 "SW3","SW_SPDT","~","Button_Switch_SMD:SW_DIP_SPSTx0l_Slide_9.78x4.72mm_W8.61mm_P2.54mm","1",""
 "U1","STM32F411CEUx","https://www.st.com/resource/en/datasheet/stm32f411ce.pdf","Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm","1",""
 "U2","2SMPP-03","2SMPP-03","2SMPP-03_OMR","1",""

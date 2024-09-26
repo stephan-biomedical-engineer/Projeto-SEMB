@@ -10523,6 +10523,16 @@
 		)
 		(uuid "76e90d5d-9582-499a-a4f4-ba196aacf213")
 	)
+	(text "Autoria:\n\nStephan Costa Barros\nGustavo Valle Sato \nSolano Jorenti Jacyntho \nBruno Mendes da Silva "
+		(exclude_from_sim no)
+		(at 558.546 365.506 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "78997c62-bf9c-43b4-abea-1260a8e48f48")
+	)
 	(text "V2\n\n"
 		(exclude_from_sim no)
 		(at 483.87 53.594 0)
