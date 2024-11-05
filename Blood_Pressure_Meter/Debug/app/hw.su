@@ -1,0 +1,7 @@
+../app/hw.c:24:7:analogRead	16	static
+../app/hw.c:38:6:buttonState	8	static
+../app/hw.c:50:6:rotateMotor	8	static
+../app/hw.c:56:6:stopMotor	8	static
+../app/hw.c:62:6:valveActivate	8	static
+../app/hw.c:67:6:valveDeactivate	8	static
+../app/hw.c:73:7:computePressure	24	static

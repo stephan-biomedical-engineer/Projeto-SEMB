@@ -1,0 +1,5 @@
+../app/display.c:14:6:LCD_SendByte	1
+../app/display.c:33:6:LCD_Init	1
+../app/display.c:47:6:LCD_Clear	1
+../app/display.c:53:6:LCD_SetCursor	3
+../app/display.c:68:6:LCD_WriteString	2

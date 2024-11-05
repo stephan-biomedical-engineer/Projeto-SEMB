@@ -1,0 +1,7 @@
+../app/hw.c:24:7:analogRead	2
+../app/hw.c:38:6:buttonState	2
+../app/hw.c:50:6:rotateMotor	1
+../app/hw.c:56:6:stopMotor	1
+../app/hw.c:62:6:valveActivate	1
+../app/hw.c:67:6:valveDeactivate	1
+../app/hw.c:73:7:computePressure	1
